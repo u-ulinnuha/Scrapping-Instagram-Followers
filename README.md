@@ -1,4 +1,4 @@
-# Scrapping-Instagram-Followers
+# Scrapping-Instagram-Post
 
 #1
 import instaloader
